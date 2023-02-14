@@ -2,7 +2,9 @@
 - 👀 I’m interested in fron-end development
 - 🌱 I’m currently learning HTML&CSS&JavaScript
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me ...
+- 📫 How to reach me:
+      huanglingchen_grace@outlook.com
+      
 
 <!---
 GraceC-339/GraceC-339 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
