@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML&CSS&JavaScript
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me:
-      huanglingchen_grace@outlook.com
+      hlchen_grace@outlook.com
       
 
 <!---
