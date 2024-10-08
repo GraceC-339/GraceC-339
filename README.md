@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @GraceC-339
-- 👀 I’m interested in fron-end development
+# 👋 Hi, I'm Grace Chen :) #
+## About Me ##
+MSc Computer Science Graduate | Aspiring Software Developer | Passionate about Technology and Innovation
 - 🌱 I’m currently learning HTML&CSS&JavaScript
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me:
       hlchen_grace@outlook.com
+- 🌏 Welcome to connect with me on LinkedIn: www.linkedin.com/in/huangling-grace-c
       
 
 <!---
