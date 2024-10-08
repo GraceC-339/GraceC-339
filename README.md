@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Grace Chen :) #
-## About Me ##
+### About Me ###
 MSc Computer Science Graduate | Aspiring Software Developer | Passionate about Technology and Innovation
 - 🌱 I’m currently learning HTML&CSS&JavaScript
 - 💞️ I’m looking to collaborate on anything!
