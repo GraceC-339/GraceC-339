@@ -4,6 +4,8 @@ MSc Computer Science Graduate | Aspiring Software Developer | Passionate about T
 - 📫 How to reach me:
       hlchen_grace@outlook.com
 - 🌏 Welcome to connect with me on LinkedIn: www.linkedin.com/in/huangling-grace-c
+- My Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
       
 
 <!---
