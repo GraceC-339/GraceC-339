@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Grace Chen :) #
 ### About Me ###
-MSc Computer Science Graduate | Aspiring Software Developer | Passionate about Technology and Innovation
+Full-stack Developer | MSc Computer Science Graduate | Passionate about Technology and Innovation
 - 📫 How to reach me:
       hlchen_grace@outlook.com
 - 🌏 Welcome to connect with me on LinkedIn: www.linkedin.com/in/huangling-grace-c
