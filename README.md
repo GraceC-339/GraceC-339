@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Grace Chen :) #
 ### About Me ###
 Full-stack Developer | MSc Computer Science Graduate | Passionate about Technology and Innovation
+
+- 🌟 Portfolio: https://gracec-339.github.io/grace-portfolio/
 - 📫 How to reach me:
       hlchen_grace@outlook.com
 - 🌏 Welcome to connect with me on LinkedIn: www.linkedin.com/in/huangling-grace-c
