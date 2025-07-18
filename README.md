@@ -1,12 +1,18 @@
-# 👋 Hi, I'm Grace Chen :) #
-### About Me ###
-Full-stack Developer | MSc Computer Science Graduate | Passionate about Technology and Innovation
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=30&pause=1000&color=FB9E3AFB&random=true&width=435&lines=+Hi%2C+I'm+Grace!+%F0%9F%91%8B)](https://git.io/typing-svg)
+---
+**`Full-stack Developer | MSc Computer Science Graduate | Passionate about Technology and Innovation`**
 
-- 🌟 Portfolio: https://gracec-339.github.io/grace-portfolio/
-- 📫 How to reach me:
-      hlchen_grace@outlook.com
-- 🌏 Welcome to connect with me on LinkedIn: www.linkedin.com/in/huangling-grace-c
+### About Me ###
+I'm a passionate **full-stack developer** who loves building applications that solve real-world problems and improve everyday life. I enjoy exploring new technologies and continuously expanding my skill set through innovative and meaningful projects.
+Outside of coding, I'm a big fan of **cats, travel, food, movies, and the arts**—I believe creativity thrives both on and off the screen.
+I'm always open to **exciting collaborations**, whether it's contributing to impactful software, learning from others, or creating something from scratch. Let’s build something great together!
+
+### Contact ###
+- 🌟 Feel free to check my [Portfolio](https://gracec-339.github.io/grace-portfolio/)
+- 📫 How to reach me: hlchen_grace@outlook.com
+- 🌏 Welcome to connect with me on [LinkedIn](www.linkedin.com/in/huangling-grace-c)
 - ✨ Open to collaborations - let’s create something meaningful!
+
 ### My Skills: ###
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,bootstrap,vite,azure,fastapi,flask,git,py,postman,postgres )](https://skillicons.dev)
 
