@@ -4,8 +4,10 @@
 
 ### About Me ###
 I'm a passionate **full-stack developer** who loves building applications that solve real-world problems and improve everyday life. I enjoy exploring new technologies and continuously expanding my skill set through innovative and meaningful projects.
-Outside of coding, I'm a big fan of **cats, travel, food, movies, and the arts**—I believe creativity thrives both on and off the screen.
-I'm always open to **exciting collaborations**, whether it's contributing to impactful software, learning from others, or creating something from scratch. Let’s build something great together!
+
+Outside of coding, I'm a big fan of **cats, travel, food, movies, and the arts** - I believe creativity thrives both on and off the screen.
+
+I'm always open to **exciting collaborations**, whether it's contributing to impactful software, learning from others, or creating something from scratch. Let’s build something great together!✨
 
 ### Contact ###
 - 🌟 Feel free to check my [Portfolio](https://gracec-339.github.io/grace-portfolio/)
