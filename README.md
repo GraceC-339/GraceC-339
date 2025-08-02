@@ -2,7 +2,13 @@
 ---
 **`Full-stack Developer | MSc Computer Science Graduate | Passionate about Technology and Innovation`**
 
-### About Me ###
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hlchen.gracec@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huangling-grace-c)
+
+### 🔗 Full Portfolio Site  
+View all projects here 👉 [Portfolio](https://gracec-339.github.io/grace-portfolio/)
+
+### 😸 About Me ###
 I'm a passionate **full-stack developer** who loves building applications that solve real-world problems and improve everyday life. I enjoy exploring new technologies and continuously expanding my skill set through innovative and meaningful projects.
 
 Outside of coding, I'm a big fan of **cats, travel, food, movies, and the arts** - I believe creativity thrives both on and off the screen.
